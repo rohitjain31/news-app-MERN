@@ -1,0 +1,17 @@
+.rightAppElem {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+.headLineLink {
+  text-decoration: none;
+  color: white;
+  margin-top: 2px;
+  margin-right: 20px;
+}
+
+.titleLink {
+  text-decoration: none;
+  color: white;
+}

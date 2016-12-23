@@ -1,0 +1,67 @@
+
+.newsContainer {
+  width: 80%;
+  height: 220px;
+  margin: auto;
+  display: flex;
+  flex-direction: row;
+  padding: 20px 0px;
+}
+
+.newsPhoto {
+  width: auto;
+  max-width: 25%;
+  height: auto;
+  max-height: 100%;
+}
+
+.newsInfoContainer {
+  width: 70%;
+  padding: 16px;
+  display: flex;
+  flex-direction: column;
+}
+
+.newsTitle {
+  margin: 0 0 4px 0;
+  color: #212121;
+  font-weight: 300;
+}
+
+.newsLink {
+  text-decoration: none;
+}
+
+.newsPublished {
+  font-size: 12px;
+  color: #636363;
+  margin-bottom: 12px;
+}
+
+.newsDescription {
+  font-size: 14px;
+}
+
+.spacer {
+  display: flex;
+  flex: 1;
+}
+
+.deleteSection {
+  margin-left: 5px;
+}
+
+.saveNews {
+  padding-top: 10px;
+}
+
+.comments {
+  padding-top: 10px;
+  color: #009688;
+}
+
+.loginMessage {
+  margin-left: 5px;
+  margin-top: 5px;
+  color: #009688;
+}
